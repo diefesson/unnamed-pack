@@ -1,0 +1,9 @@
+hash-format = "sha256"
+
+[[files]]
+file = "README.md"
+hash = "87a4831ab77096b6c508055cc84acf03aab03fb0b193c06443d711e829f6e369"
+
+[[files]]
+file = "cliff.toml"
+hash = "ff2630ed8d9a6e6e61c80c9bdf519ba888dc6ddd6dc62f08993710e4a492f323"
