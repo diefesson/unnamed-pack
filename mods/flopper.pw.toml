@@ -1,0 +1,13 @@
+name = "Flopper"
+filename = "flopper-1.21.1-neoforge-1.1.8-241.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/aTMAqQMY/versions/7ft61fMi/flopper-1.21.1-neoforge-1.1.8-241.jar"
+hash-format = "sha512"
+hash = "0907662377d19be84e746909b80197bf9f1fc153a1bd4756e742bc87264018e13c7facb2adca60e07a8a4f158d0057f84f30ca5b93af077563a11da864c93de6"
+
+[update]
+[update.modrinth]
+mod-id = "aTMAqQMY"
+version = "7ft61fMi"

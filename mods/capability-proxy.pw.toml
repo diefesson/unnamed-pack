@@ -1,0 +1,13 @@
+name = "Capability Proxy"
+filename = "capabilityproxy-1.21.1-neoforge-2.2.1-227.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/3mPgwv8n/versions/KgNjQiH9/capabilityproxy-1.21.1-neoforge-2.2.1-227.jar"
+hash-format = "sha512"
+hash = "6e4e4d48cfa03371e498b0342a7a7b1eb024eee5db92b0f4732ad257cd4a9be80813d106401b9680088d944d1fd93a8818e26c72f213a6a87204f5e6682f97c0"
+
+[update]
+[update.modrinth]
+mod-id = "3mPgwv8n"
+version = "KgNjQiH9"
