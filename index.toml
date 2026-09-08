@@ -94,11 +94,6 @@ hash = "265f8240cd459bc3f47a9029e622dc16eb638fde4b9894e79ce53305f50b90ec"
 metafile = true
 
 [[files]]
-file = "mods/biomes-o-plenty.pw.toml"
-hash = "a4931e5abbec081a08ab3a1d69b2d470596b6361d707a7756f6ad34c0f21f81e"
-metafile = true
-
-[[files]]
 file = "mods/blueprint.pw.toml"
 hash = "ead3aff0899e5bc61eb22fe0af86722b430f9e92990b3cd2720d5c2c1f66d023"
 metafile = true
@@ -216,6 +211,11 @@ metafile = true
 [[files]]
 file = "mods/convenient-effects.pw.toml"
 hash = "b50cea20e5d158440526ee78feaf57436acf64a581e58d920814eca5dce011c6"
+metafile = true
+
+[[files]]
+file = "mods/corgilib.pw.toml"
+hash = "2b8c5286980b8d864085d02a6b2153cefa401a965833139ffac8e7661a322f7c"
 metafile = true
 
 [[files]]
@@ -354,8 +354,8 @@ hash = "00ec91db9928c4da54bb3843eb8eba7c918aa65ffdc90b69f93bd52e41387eb1"
 metafile = true
 
 [[files]]
-file = "mods/farmers-cutting-biomes-o-plenty.pw.toml"
-hash = "e8a8b5217e3cac90c7e42a9698c9d3da408a5de99d590eab025653fa7d8b8911"
+file = "mods/farmers-cutting-oh-the-biomes-weve-gone.pw.toml"
+hash = "5135cb75af54eb83a61156dd252d19f308b8674d0c5fd778da568527bf6031d3"
 metafile = true
 
 [[files]]
@@ -391,6 +391,11 @@ metafile = true
 [[files]]
 file = "mods/fzzy-config.pw.toml"
 hash = "f9c118b7a66238a7f9e052705e82402e57c7a5b753d62d679b94701ede479752"
+metafile = true
+
+[[files]]
+file = "mods/geckolib.pw.toml"
+hash = "5a26489b734991c0511abfe43bf9143c935b8483d854a78fecd2e84993fb09cc"
 metafile = true
 
 [[files]]
@@ -631,6 +636,16 @@ metafile = true
 [[files]]
 file = "mods/notenoughrecipebook.pw.toml"
 hash = "6df80014ec12832c5627e60f7c916e0cb8a9d8dbb3f7c4ff863de3a6e39957aa"
+metafile = true
+
+[[files]]
+file = "mods/oh-the-biomes-weve-gone.pw.toml"
+hash = "fdaa22d49ee4987c2d0c012e24c7b44d50a653519767d18371e8d778c188f184"
+metafile = true
+
+[[files]]
+file = "mods/oh-the-trees-youll-grow.pw.toml"
+hash = "5a59ebe515dbf2b637ac23bedeb33e545675668a0a454c5d6edd4d207a458844"
 metafile = true
 
 [[files]]
