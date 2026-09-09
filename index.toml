@@ -881,6 +881,10 @@ file = "config/maxhealthfix.json"
 hash = "f25e0012be339dc6020bc892faea1c9765466a16fd1bb4174c00d885270a9241"
 
 [[files]]
+file = "config/mc2discord.toml"
+hash = "55143558e57198ac31fba2fe9b39d16740e727a4bbecae4bcc8fdf21928cd3a7"
+
+[[files]]
 file = "config/megacells-common.toml"
 hash = "bcda62c284c8c0e454cc69952b9887cb72f5135cdae86ac6fc0bae37ed63cdb9"
 
@@ -1757,6 +1761,11 @@ metafile = true
 [[files]]
 file = "mods/max-health-fix.pw.toml"
 hash = "4001d2b92e816ec91524967e1a0dd83c59da461214edf7ad246084fb22c02bc9"
+metafile = true
+
+[[files]]
+file = "mods/mc2discord.pw.toml"
+hash = "0fcf32d1886afa764e3fde68ceda6a6443078e42d8e9a6f54ab9e779115d2338"
 metafile = true
 
 [[files]]
