@@ -24,7 +24,7 @@
 
 [customization]
 	#Items that count as torches for the offhand-torch tweak options.
-	torchItems = ["minecraft:torch", "minecraft:soul_torch", "tconstruct:stone_torch"]
+	torchItems = ["minecraft:torch", "minecraft:soul_torch", "minecraft:redstone_torch", "goety:iron_dungeon_torch", "goety:gold_dungeon_torch", "framedblocks:framed_torch", "framedblocks:framed_soul_torch", "framedblocks:framed_redstone_torch", "integrateddynamics:menril_torch", "integrateddynamics:menril_torch_stone", "mynethersdelight:powdery_torch", "dungeonsdelight:living_torch"]
 	#Items that are allowed to place torches from the offhand if offhandTorchWithToolOnly is enabled.
 	torchTools = ["minecraft:wooden_pickaxe", "minecraft:stone_pickaxe", "minecraft:iron_pickaxe", "minecraft:golden_pickaxe", "minecraft:diamond_pickaxe", "minecraft:netherite_pickaxe", "tconstruct:pickaxe", "tconstruct:hammer"]
 	#Additional items that count as weapons for the offhand-shield hiding tweak options.
@@ -42,7 +42,7 @@
 	#This option will hide your shield unless you are holding a weapon.
 	hideShieldUnlessHoldingWeapon = true
 	#This option will hide your shield unless you are actively blocking.
-	hideShieldUnlessBlocking = false
+	hideShieldUnlessBlocking = true
 	#This option will hide your offhand item. It can be toggled via an optional key binding.
 	hideOffhandItem = false
 	#This option will hide your empty main hand in first person.
@@ -50,7 +50,7 @@
 	#This option will hide both first person hands. It can be toggled via an optional key binding.
 	hideHands = false
 	#This option will hide your own potion particle effects for your client (other players will still see them).
-	hideOwnParticleEffects = false
+	hideOwnParticleEffects = true
 
 [creativeMode]
 	#This option will increase the hitbox of random-offset blocks in creative mode, making it easier to break them quickly.
@@ -62,9 +62,9 @@
 
 [mining]
 	#This prevents the last durability from being used up.
-	doNotUseLastMending = false
+	doNotUseLastMending = true
 	#Prevents accidental mining of certain fragile blocks like budding amethysts.
-	preventAccidentalMining = false
+	preventAccidentalMining = true
 
 [torches]
 	#This prevents the last torch in the offhand from being placed.

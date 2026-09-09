@@ -8,11 +8,11 @@
 # Game balancing settings
 [balancing]
 	# Require holding a hoe (either hands) to right-click harvest.
-	"require hoe" = false
+	"require hoe" = true
 	# If [require hoe] is set to true, damage the hoe of the given amount (0 to disable, must be an integer).
 	# Default: 0
 	# Range: > 0
-	"damage on harvest" = 0
+	"damage on harvest" = 1
 	# Multiplier for the exhaustion caused when right-click harvesting (0 to disable, 1 for the same exhaustion regular block breaking causes).
 	# Testing is advised. Follow the table below for some approximate info (note that a player has up to 20 hunger points):
 	# Multiplier value | Hunger points per crop harvested | Crops required to deplete 1 hunger/saturation point
@@ -32,7 +32,7 @@
 	# Range: > 0
 	"exp on harvest" = 0
 	# Whether to gather drops near the player when harvesting.
-	"gather drops" = false
+	"gather drops" = true
 
 #Multi-harvest settings
 [multiharvest]

@@ -44,7 +44,7 @@
 	#Vertical Position of where the Soul Energy Bar is located, Default: -5
 	# Default: -5
 	# Range: > -2147483647
-	soulGuiVertical = -5
+	soulGuiVertical = -7
 	#Move where the equipped Focus is located horizontally from its original position (- = Left, + = Right), Default: 0
 	# Default: 0
 	# Range: > -2147483647

@@ -6,7 +6,7 @@
 	#Whether health bars should render when the HUD is disabled with F1
 	render_without_gui = false
 	#How far above the mob the health bars should render
-	height_above_mob = 0.3
+	height_above_mob = 0.5
 	#Whether the gray background plate should be drawn
 	draw_background = true
 	#Amount of extra padding space around the background plate
@@ -22,7 +22,7 @@
 	#Show mob attributes such as arthropod or undead
 	show_attributes = true
 	#Show armor points
-	show_armor = true
+	show_armor = false
 	#Group 5 iron icons into 1 diamond icon
 	group_armor = true
 	#Color health bar by mob type instead of health percentage
@@ -36,7 +36,7 @@
 	#Whether the current health of the mob should be shown
 	show_current_hp = true
 	#Whether the percentage health of the mob should be shown
-	show_hp_percentage = true
+	show_hp_percentage = false
 	#Whether bars on passive mobs should be shown
 	show_on_passive = true
 	#Whether bars on hostile mobs should be shown (does not include bosses)

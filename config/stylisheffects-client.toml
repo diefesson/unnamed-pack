@@ -17,12 +17,12 @@
 		#Default Value: 5
 		# Default: 5
 		# Range: 1 ~ 255
-		max_columns = 5
+		max_columns = 2
 		#Space between individual effect widgets on y-axis.
 		#Default Value: 1
 		# Default: 1
 		# Range: > 0
-		widget_space_y = 1
+		widget_space_y = 0
 		#Alpha value for effect widgets.
 		#Default Value: 1.0
 		# Default: 1.0
@@ -32,12 +32,12 @@
 		#Default Value: 1
 		# Default: 1
 		# Range: > 0
-		widget_space_x = 1
+		widget_space_x = 0
 		#Custom scale for effect renderer.
 		#Default Value: 4.0
 		# Default: 4.0
 		# Range: 1.0 ~ 12.0
-		scale = 4.0
+		scale = 3.0
 		#Respect vanilla's "hideParticles" flag which prevents a status effect from showing when set via commands.
 		#Default Value: false
 		respect_hide_particles = false
@@ -54,7 +54,7 @@
 		debug_container_types = false
 		#Render active status effects in every menu screen, not just in the player inventory.
 		#Default Value: true
-		effects_everywhere = true
+		effects_everywhere = false
 		#Allow effect renderer to fall back to a more compact version (when available) if not enough screen space exists. Otherwise effect widgets might run off-screen.
 		#Default Value: true
 		allow_fallback = true
@@ -81,7 +81,7 @@
 		#Default Value: 1
 		# Default: 1
 		# Range: > 0
-		widget_space_y = 1
+		widget_space_y = 0
 		#Alpha value for effect widgets.
 		#Default Value: 0.85
 		# Default: 0.85
@@ -91,12 +91,12 @@
 		#Default Value: 1
 		# Default: 1
 		# Range: > 0
-		widget_space_x = 1
+		widget_space_x = 0
 		#Custom scale for effect renderer.
 		#Default Value: 4.0
 		# Default: 4.0
 		# Range: 1.0 ~ 12.0
-		scale = 4.0
+		scale = 3.0
 		#Respect vanilla's "hideParticles" flag which prevents a status effect from showing when set via commands.
 		#Default Value: true
 		respect_hide_particles = true
@@ -107,7 +107,7 @@
 		max_rows = 255
 		#Allow effect renderer to fall back to a more compact version (when available) if not enough screen space exists. Otherwise effect widgets might run off-screen.
 		#Default Value: false
-		allow_fallback = false
+		allow_fallback = true
 		#Screen side to render status effects on.
 		#Default Value: RIGHT
 		#Allowed Values: LEFT, RIGHT
@@ -116,7 +116,7 @@
 		#Default Value: 3
 		# Default: 3
 		# Range: > 0
-		offset_x = 3
+		offset_x = 74
 		#Effect renderer to be used.
 		#This setting might not be respected when not enough screen space is available. To force this setting disable "allow_fallback".
 		#Default Value: GUI_COMPACT
@@ -227,7 +227,7 @@
 		compact_duration = false
 		#Should effect widgets have a blue or red border depening on if they are beneficial or not.
 		#Default Value: false
-		quality_border = false
+		quality_border = true
 		#Hide infinite symbol shown for an effect duration that is too long to fit.
 		#Default Value: false
 		hide_infinite_duration = false
@@ -243,8 +243,8 @@
 		ambient_border = true
 		#Draw harmful effects on a separate line from beneficial ones. This is turned on in vanilla.
 		#Default Value: false
-		separate_effects = false
+		separate_effects = true
 		#Effect duration color. Setting this to "EFFECT" will use potion color.
 		#Default Value: GRAY
 		#Allowed Values: EFFECT, BLACK, DARK_BLUE, DARK_GREEN, DARK_AQUA, DARK_RED, DARK_PURPLE, GOLD, GRAY, DARK_GRAY, BLUE, GREEN, AQUA, RED, LIGHT_PURPLE, YELLOW, WHITE
-		duration_color = "GRAY"
+		duration_color = "WHITE"

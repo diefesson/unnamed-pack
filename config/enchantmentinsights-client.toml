@@ -9,7 +9,7 @@
 	tooltip_descriptions_hint = true
 	#Apply a fixed string before every initial description line.
 	#Default Value:  ◆ 
-	description_decoration = " ◆ "
+	description_decoration = "  "
 
 	#Formatting for setting a text color and various styles for different enchantments.
 	[enchanted_item_tooltips.enchantment_name_styling]
@@ -154,7 +154,7 @@
 	tooltip_descriptions = "ALWAYS"
 	#Apply a fixed string before every initial description line.
 	#Default Value:  ◆ 
-	description_decoration = " ◆ "
+	description_decoration = "  "
 	#Add a note on how to show descriptions when they are hidden.
 	#Default Value: true
 	tooltip_descriptions_hint = true

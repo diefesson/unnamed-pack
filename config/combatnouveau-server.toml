@@ -60,7 +60,7 @@ no_projectile_immunity = true
 	throwables_delay = true
 	#Eating and drinking both are interrupted if the player is damaged.
 	#Default Value: true
-	eating_interruption = true
+	eating_interruption = false
 
 [cooldown]
 	#Disable attacking when attack cooldown is below a certain percentage.

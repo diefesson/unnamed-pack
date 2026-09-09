@@ -4,11 +4,11 @@
 	display_single_count = true
 	#Add the total amount of an item in your inventory to the entry.
 	#Default Value: false
-	inventory_count = false
+	inventory_count = true
 	#Mode for drawing a background behind entries for better visibility. 'CHAT' is similar to the chat background, 'TOOLTIP' uses the tooltip background rendering instead.
 	#Default Value: NONE
 	#Allowed Values: NONE, CHAT, TOOLTIP
-	entry_background = "NONE"
+	entry_background = "TOOLTIP"
 	#Add the name of the item to the entry.
 	#Default Value: true
 	display_item_name = true
@@ -29,11 +29,11 @@
 	#Offset on x-axis from screen border.
 	# Default: 8
 	# Range: > 0
-	offset_x = 8
+	offset_x = 15
 	#Offset on y-axis from screen border.
 	# Default: 4
 	# Range: > 0
-	offset_y = 4
+	offset_y = 20
 	#Percentage of relative screen height entries are allowed to fill at max.
 	# Default: 0.5
 	# Range: 0.0 ~ 1.0

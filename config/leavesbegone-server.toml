@@ -2,7 +2,7 @@
 #Default Value: 20
 # Default: 20
 # Range: > 0
-maximum_decay_ticks = 20
+maximum_decay_ticks = 10
 #Minimum ticks after which leaves will start to decay.
 #Default Value: 5
 # Default: 5
