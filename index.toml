@@ -1166,7 +1166,7 @@ hash = "a4c652cafa7dea324e5f5cf3b1df46a84e54b6d4f877195857bce55a559c1cfd"
 
 [[files]]
 file = "config/xaero/minimap/profiles/default.cfg"
-hash = "a7e36c6adbb846d6d4fbbddbfde8182fdc7a7c29ed63a59e42a99eacb2e0d5de"
+hash = "e1846ab5c832a19efc65e6c6633593bfbbf9c3eb2852427d195bbe263a635614"
 
 [[files]]
 file = "config/xaero/minimap/profiles/entity_radar_categories/default.cfg.json"
@@ -1178,7 +1178,7 @@ hash = "aa5f276ab37cdb472adc66e66d00a9ab685cd4fa8c4ea2a94b547cd669898d7a"
 
 [[files]]
 file = "config/xaero/minimap/server_profiles/default.cfg"
-hash = "d438aea41ca41e93697e059f523686935c0add482f6abe96b532bbf10c6ed80a"
+hash = "cf2a9891abd98d2b2f70b63a67ced680583e091cb598812f335eb5324d87bc84"
 
 [[files]]
 file = "config/xaero/world-map/client.cfg"
@@ -1194,7 +1194,7 @@ hash = "5422abf9c83fedef6509144293fad20f588d4bb6ce0cf1af78cbcd2bcd0d2ccf"
 
 [[files]]
 file = "config/xaero/world-map/server_profiles/default.cfg"
-hash = "d438aea41ca41e93697e059f523686935c0add482f6abe96b532bbf10c6ed80a"
+hash = "f08e5e7200eb134d66cdd5cca6d0362a63418d62ae96aeb4ea616e2f63041127"
 
 [[files]]
 file = "config/xaerohud.txt"
