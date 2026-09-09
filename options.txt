@@ -136,7 +136,7 @@ key_key.goety.ceaseFire:key.keyboard.unknown
 key_key.goety.lich.magnet:key.keyboard.unknown
 key_key.goety.lich.nightVision:key.keyboard.unknown
 key_key.goety.witch.extractPotions:key.keyboard.unknown
-key_key.goety.witch.brewBag:key.keyboard.c
+key_key.goety.witch.brewBag:key.keyboard.b
 key_key.goety.witch.brewCircle:key.keyboard.unknown
 key_key.goety.mount.roar:key.keyboard.unknown
 key_key.goety.mount.freeRoam:key.keyboard.unknown
@@ -200,10 +200,10 @@ key_gui.xaero_minimap_settings:key.keyboard.unknown
 key_gui.xaero_minimap_server_profiles:key.keyboard.unknown
 key_gui.xaero_zoom_in:key.keyboard.equal
 key_gui.xaero_zoom_out:key.keyboard.minus
-key_gui.xaero_new_waypoint:key.keyboard.n
+key_gui.xaero_new_waypoint:key.keyboard.m:CONTROL
 key_gui.xaero_waypoints_key:key.keyboard.unknown
 key_gui.xaero_enlarge_map:key.keyboard.keypad.add
-key_gui.xaero_toggle_map:key.keyboard.unknown
+key_gui.xaero_toggle_map:key.keyboard.keypad.subtract
 key_gui.xaero_toggle_waypoints:key.keyboard.unknown
 key_gui.xaero_toggle_map_waypoints:key.keyboard.unknown
 key_gui.xaero_toggle_slime:key.keyboard.unknown
@@ -236,7 +236,7 @@ key_gui.xaero_toggle_dimension:key.keyboard.unknown
 key_key.kubejs.kubedex:key.keyboard.k
 key_chloride.zoom:key.keyboard.unknown
 key_key.guideme.guide:key.keyboard.unknown
-key_key.personality.crawl:key.keyboard.left.control
+key_key.personality.crawl:key.keyboard.c
 key_key.personality.sit:key.keyboard.unknown
 key_key.jade.config:key.keyboard.unknown
 key_key.jade.show_overlay:key.keyboard.unknown
