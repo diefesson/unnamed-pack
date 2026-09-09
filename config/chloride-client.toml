@@ -34,7 +34,7 @@ modpackMode = false
 
   # Value must be greater than 0
   verticalMargin = 12
-  shadow = false
+  shadow = true
 
 [fog]
   # Fog rendering and the sky blue band
@@ -192,7 +192,7 @@ modpackMode = false
 
 [zoom]
   # Zoom keybind
-  enabled = true
+  enabled = false
 
   # Value must be less than '100.0' and greater than '1.0'
   max = 50.0

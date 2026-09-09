@@ -454,6 +454,14 @@ hash = "34eaa67477d6830c40365c598662234b0ade2e2d72f53bb0e0128335a8485312"
 
 [[files]]
 file = "config/chloride-client.toml"
+hash = "f392f2c2d6f746929e1065cde9aadbc3f8ffe228d44a2db95be9061b928ce718"
+
+[[files]]
+file = "config/chloride-client.toml_backup1"
+hash = "f363fbcccba9bb672c452724ba7a7e25dc338f3cd95e8fd14abafc15faff44bc"
+
+[[files]]
+file = "config/chloride-client.toml_backup2"
 hash = "39cdac520f5e782dec6ca08e3cbd8a9216c47008453d3506828a92ec04ab3417"
 
 [[files]]
@@ -958,7 +966,7 @@ hash = "638d3bf65f568e12a49b2bc543cc4e43bace1f62567c98ca654f4023779d5eb8"
 
 [[files]]
 file = "config/particlerain/config.json"
-hash = "e467bad5ddd60ec1f2deee790243ea6a08712d365da472cf46542c8adba84d38"
+hash = "1e68bcb2d31b0b1a32cef77115c29d6efa89a6084fab248cba08d60ae642558b"
 
 [[files]]
 file = "config/particlerain/particles.json"
@@ -1058,7 +1066,7 @@ hash = "b627c4456e6fa0bc4b5f85e2f1cd949faedae3cb9afdaf2a5f52e6f3b6ae1f01"
 
 [[files]]
 file = "config/sodium-options.json"
-hash = "50316bc5ab5eba3c7ca6f2209f22247a9e1a3ff298515539dc9d31f834cf1a4d"
+hash = "c77a69e8fa8faee8039edd9b93d01a9ed4edc8da5f9e591c22b8d0c0852b90f2"
 
 [[files]]
 file = "config/sodium-shadowy-path-blocks-options.json"
@@ -2080,4 +2088,4 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "274373d27111df0ac4be8eb551802ef3c1631df67c1faf8632f6b53a9409a1dd"
+hash = "ec6133b2565bd562c6857a0de0aa7e06822cb79d01437c2973a057a3acf8755a"
