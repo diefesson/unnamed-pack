@@ -625,10 +625,6 @@ file = "config/enchantmentinsights-client.toml"
 hash = "d07a5e15998260d811357ba1adea2de5d125347a5482f95d1eb1201a7abcf162"
 
 [[files]]
-file = "config/energeticsheep-common.toml"
-hash = "bb2d68e9f9de55259c66edc17a8e094183a278be0c48cb808a9191158cc6fdf1"
-
-[[files]]
 file = "config/energymeter-common.toml"
 hash = "c5c03e3547184c56c714d9508174897c51c04550b62184396a6d01b98dd7f89f"
 
@@ -991,6 +987,10 @@ hash = "bd5fc254239d0cf40e45c753d29d8c83c2b9d3b6222ccc5a743014010f10ec7b"
 [[files]]
 file = "config/pickupnotifier/pickupnotifier-server.toml"
 hash = "f307605d2e9622fcb9290a02a28c37febfe87676faebe600899c339c1f9453e4"
+
+[[files]]
+file = "config/powah.json5"
+hash = "aeaedba1a7b7732e561467f71b136e5cade50ae561ae217361271fe5efbf87b2"
 
 [[files]]
 file = "config/proplacer-client.toml"
@@ -1522,11 +1522,6 @@ hash = "10e20cc91f629d6d9f5693f9a04839ab7e51321375c9f4485e0a0b7f0c80a1e6"
 metafile = true
 
 [[files]]
-file = "mods/energetic-sheep.pw.toml"
-hash = "2249958790147e952f4ba9814c884a00d767e41dbbae295125857f308c8ccd15"
-metafile = true
-
-[[files]]
 file = "mods/energymeter.pw.toml"
 hash = "eb9db01c150b3358de98f44779a0c86d015b69c75c00ecdbb15198dba091ce70"
 metafile = true
@@ -1899,6 +1894,11 @@ metafile = true
 [[files]]
 file = "mods/polymorph.pw.toml"
 hash = "152769b5dfbb92a836634e315898b23b6a555c60b6f05ddf38c00085f2b784f6"
+metafile = true
+
+[[files]]
+file = "mods/powah.pw.toml"
+hash = "dc9fec9f7c8410ed73c1d9dec65df90b83af5a62a86e6a33b55dec5641f49f17"
 metafile = true
 
 [[files]]
