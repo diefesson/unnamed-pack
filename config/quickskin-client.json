@@ -29,7 +29,7 @@
   "enableStyledButtons": false,
   "hideBuiltInCapes": false,
   "skinSortMode": "LATEST_LAST",
-  "menuBackgroundStyle": "opaque_stars",
+  "menuBackgroundStyle": "vanilla_blur",
   "enablePlayerOwnSkinSystem": true,
   "activeSkinHash": "",
   "activeCpmModelHash": "",

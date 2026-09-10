@@ -998,7 +998,7 @@ hash = "4ffd0671333dba428b3e0c2047e78c6f3ecdafce4610696b2b796f4e8440c72d"
 
 [[files]]
 file = "config/quickskin-client.json"
-hash = "48b518d8b7036793d8782759babaf318448c1e381df3322f58508d49d1d29a4c"
+hash = "e13152feefaf67fad1c39c9a3b8f79ab4d11ec0aceeffde9a82281017a94cd75"
 
 [[files]]
 file = "config/quickskin-server.json"
@@ -1006,7 +1006,7 @@ hash = "3fe4d409cb36aaf7e3e70676c14af27dd8f6fecc66d6fcbfe114f7cd36619cdb"
 
 [[files]]
 file = "config/quickskin_preferences.json"
-hash = "85733929970b899e474b4298e759a04e35e1992a31bf1e7c4ff5d157ef7e349c"
+hash = "514ffdd8846bb173fb5dc33b1991bd0a73b26ef44ae1e8c8f1a5053e532fdf1b"
 
 [[files]]
 file = "config/resourceful-config-web.json"
