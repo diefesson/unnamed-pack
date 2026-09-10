@@ -1090,7 +1090,7 @@ hash = "f444999dd9a66b3fa806be94421bb7fe82fd898f91f3bf29a4aaab4e8f5cd95f"
 
 [[files]]
 file = "config/stylisheffects-client.toml"
-hash = "9843120b488944aab7d995dbaf49ea95f73abc7fd940e0027a11dd57864c17c7"
+hash = "f24cc587f62f4869eb62b269efa26a0d2a873964f47aa9b9714e6e4e08dac535"
 
 [[files]]
 file = "config/terrablender.toml"
