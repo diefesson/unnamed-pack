@@ -1174,7 +1174,7 @@ hash = "a4c652cafa7dea324e5f5cf3b1df46a84e54b6d4f877195857bce55a559c1cfd"
 
 [[files]]
 file = "config/xaero/minimap/profiles/default.cfg"
-hash = "e1846ab5c832a19efc65e6c6633593bfbbf9c3eb2852427d195bbe263a635614"
+hash = "2661cae583aeca402ba2de9415ed25a08fabaeafd1ef87f9774dc54474bbaad3"
 
 [[files]]
 file = "config/xaero/minimap/profiles/entity_radar_categories/default.cfg.json"
