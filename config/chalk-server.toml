@@ -30,7 +30,7 @@ glowing_enabled = true
 	#Some mark symbols need to be unlocked by completing specific advancements.
 	#Setting this to 'false' will bypass the unlocking feature, making all symbols always available.
 	#Default: true
-	unlocking = true
+	unlocking = false
 	#When a symbol is unlocked, message will be shown in the chat.
 	#Default: true
 	unlocking_chat_message = true

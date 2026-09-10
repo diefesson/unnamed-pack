@@ -446,7 +446,7 @@ hash = "d37d407a7c8435cccfec40e54deb4f6b677f4ccc8eb923b883edffd07ecf86e9"
 
 [[files]]
 file = "config/chalk-server.toml"
-hash = "909e29f99ae34f6f68d86ba27926852bdb207a88dcc102c54b05261316e23a9e"
+hash = "2b080f2a339f49b87c24b967e7535295b2ba0985b3cbea42f1d21989f650dc0b"
 
 [[files]]
 file = "config/chefsdelight-common.toml"
