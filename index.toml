@@ -705,6 +705,10 @@ file = "config/fzzy_config/search.toml"
 hash = "103317c4c1c5ae1421946c921428cbfbd9b2a17ee37115d9778d0b22e3b64e19"
 
 [[files]]
+file = "config/global_packs.toml"
+hash = "e521baea8cde5a275585c7063fa3272b79a303c73e4efb1d509a638914e1299e"
+
+[[files]]
 file = "config/goety/goety-attributes.toml"
 hash = "fea63d11804ff709b439da2b4eb3f674e9ddfb6f580efe47e3d258ff1354fd06"
 
@@ -1013,10 +1017,6 @@ file = "config/resourceful-config-web.json"
 hash = "714f7fe9357198313ebb30292ba1a2ac22e1e6bd8db1dfb99d6fde37819b07b5"
 
 [[files]]
-file = "config/resourcepackoverrides.json"
-hash = "1cab1e1beef2a63354027d6a5f8ce299fee685dd5387d7fd21125c487c50c4c1"
-
-[[files]]
 file = "config/royalvariations-1.toml.bak"
 hash = "3e0d8580d9e06f6565ad9141b616b18b745457dd3b0323aa2d1ef4ff99e82d5e"
 
@@ -1091,6 +1091,10 @@ hash = "f444999dd9a66b3fa806be94421bb7fe82fd898f91f3bf29a4aaab4e8f5cd95f"
 [[files]]
 file = "config/stylisheffects-client.toml"
 hash = "f24cc587f62f4869eb62b269efa26a0d2a873964f47aa9b9714e6e4e08dac535"
+
+[[files]]
+file = "config/tectonic.json"
+hash = "f8159cd49fec4f6faefa98cff420db36861d71bba7aaa0a55c898b860da75f09"
 
 [[files]]
 file = "config/terrablender.toml"
@@ -1602,6 +1606,11 @@ hash = "e53646f88aeb6bd54c38db50da972abdac91e83c145a8f974107b0ca103b15bc"
 metafile = true
 
 [[files]]
+file = "mods/globalpacks.pw.toml"
+hash = "a7f2ae8ea415e95ce1a3518b66edcaf124d8903ff9101d07331f7fec92b3400f"
+metafile = true
+
+[[files]]
 file = "mods/goety.pw.toml"
 hash = "b371a08eab1a505af89384c1285db182a1fbff5679f2ef3615b0f2ae14f22429"
 metafile = true
@@ -1937,11 +1946,6 @@ hash = "f1aab783c14673d62e516fe43887088d1647b125c92c9b9caabd3574169c8d2c"
 metafile = true
 
 [[files]]
-file = "mods/resource-pack-overrides.pw.toml"
-hash = "b8101dca20d054277d99e75b43dd8db44dea64a761d2ab69fdda9f6d59d9e6f1"
-metafile = true
-
-[[files]]
 file = "mods/resourceful-config.pw.toml"
 hash = "27721caca5a03b743bf25888e1d984142948069dace31453f103f94f7f24d2ce"
 metafile = true
@@ -2034,6 +2038,11 @@ metafile = true
 [[files]]
 file = "mods/supermartijn642s-core-lib.pw.toml"
 hash = "51c911d05e42b074fea01a74cb05050fa15164eed8a5d137cf0f64ecc16ed861"
+metafile = true
+
+[[files]]
+file = "mods/tectonic.pw.toml"
+hash = "dd46fad79cf33a00123be0a74c73581da72cd98503ef23822a624a08f4b10ff2"
 metafile = true
 
 [[files]]
