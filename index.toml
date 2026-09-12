@@ -1,14 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "README.md"
-hash = "87a4831ab77096b6c508055cc84acf03aab03fb0b193c06443d711e829f6e369"
-
-[[files]]
-file = "cliff.toml"
-hash = "ff2630ed8d9a6e6e61c80c9bdf519ba888dc6ddd6dc62f08993710e4a492f323"
-
-[[files]]
 file = "config/AMWPlushies-AltList-Server.toml"
 hash = "391c89d4684981232225c478b587b5c433beb54a9b3036d373e57fd03f8c4735"
 
