@@ -1,0 +1,18 @@
+# yaml-language-server: $schema=https://taskfile.dev/schema.json
+
+version: 3
+
+tasks:
+  refresh:
+    cmds:
+      - packwiz refresh
+
+  export:
+    deps:
+      - refresh
+    cmds:
+      - packwiz mr export --output 'pack.mrpack'
+
+  clear:
+    if: "[ -f pack.mrpack ]"
+    cmd: rm 'pack.mrpack'
