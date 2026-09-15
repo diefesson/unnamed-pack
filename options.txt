@@ -19,7 +19,7 @@ guiScale:0
 maxFps:60
 mipmapLevels:0
 narrator:0
-particles:2
+particles:1
 reducedDebugInfo:false
 renderClouds:"fast"
 renderDistance:8
