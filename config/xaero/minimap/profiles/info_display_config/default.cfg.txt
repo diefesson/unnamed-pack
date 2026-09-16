@@ -7,7 +7,7 @@ infoDisplay:dimension:false:15:-1
 infoDisplay:biome:true:15:0
 infoDisplay:weather:false:15:-1
 infoDisplay:light_level:0:15:-1
-infoDisplay:time:1:15:0
+infoDisplay:time:3:15:0
 infoDisplay:real_time:1:15:0
 infoDisplay:highlights:true:15:-1
 infoDisplay:light_overlay_indicator:true:15:-1

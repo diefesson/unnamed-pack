@@ -1178,7 +1178,7 @@ hash = "3c888b22cba252e8f0a974f8c1604bc05109affbf4354ad3b16e71778c4b9774"
 
 [[files]]
 file = "config/xaero/minimap/profiles/info_display_config/default.cfg.txt"
-hash = "aa5f276ab37cdb472adc66e66d00a9ab685cd4fa8c4ea2a94b547cd669898d7a"
+hash = "25ec0294c21a51113957cc1f2270bd0bd1069306160ac30c5fabeec448dece5b"
 
 [[files]]
 file = "config/xaero/minimap/server_profiles/default.cfg"
