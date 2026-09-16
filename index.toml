@@ -517,6 +517,10 @@ file = "config/convenienteffects-server.toml"
 hash = "29fdad02c211fe2d8d6098b92e15d36b03afa13d12531e282198eb5f66d3b9cd"
 
 [[files]]
+file = "config/craftingtweaks-common.toml"
+hash = "88a669f3aa6e8ffa05c4e1dbefc1f372ca26cea0fd493c16f33d94e37c513f8c"
+
+[[files]]
 file = "config/creativecore-client.json"
 hash = "acb6c8c1394d4d6f2d0c98d5c314c5ef8ad34b8a76f0a420fc596733bcbc51ac"
 
@@ -839,6 +843,10 @@ hash = "6a91c09d1cabc1980d90ab102a03ec58c0551213ab16a459b599d768b334d054"
 [[files]]
 file = "config/jei/recipe-category-sort-order.ini"
 hash = "f25cc1c0e58e88138cb25c87008401b296fc2922b2375b2975d997b04b9bef86"
+
+[[files]]
+file = "config/kleeslabs-common.toml"
+hash = "5bb9e052441aca3b72d7f49adc40f40d222bb3404e0f7114c48e998195c73c3a"
 
 [[files]]
 file = "config/leavemybarsalone-client.toml"
@@ -1418,6 +1426,11 @@ hash = "b50cea20e5d158440526ee78feaf57436acf64a581e58d920814eca5dce011c6"
 metafile = true
 
 [[files]]
+file = "mods/crafting-tweaks.pw.toml"
+hash = "b63999aa63a273098f42e22d8d5018c8617b8e2babdffc752d9aad3eefaaa76d"
+metafile = true
+
+[[files]]
 file = "mods/creativecore.pw.toml"
 hash = "b06e3a557d5fe63fa8bcb60335eba994288ce124625eabd29b76daf602ad3dcb"
 metafile = true
@@ -1710,6 +1723,11 @@ metafile = true
 [[files]]
 file = "mods/keep-my-soil-tilled.pw.toml"
 hash = "58e9587658d73e49b00dc998328ee12f1c155784da6effb50e36683ca2f3e37e"
+metafile = true
+
+[[files]]
+file = "mods/kleeslabs.pw.toml"
+hash = "239ce94d468f02f6ace4c69e171a5668138a143936e313992635cb3d2a2a5a8c"
 metafile = true
 
 [[files]]
@@ -2099,4 +2117,4 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "f92938c8eb2787ed42ee685e6b9d02c612ab0751d870df60b853946215e2d40f"
+hash = "7141677eb4775c9ee587b74a8e9462babf2419d7f85267b49dd78a01276ae514"
