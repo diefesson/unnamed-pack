@@ -149,6 +149,7 @@ key_key.exposure.camera_controls:key.keyboard.unknown
 key_key.curios.open.desc:key.keyboard.unknown
 key_framedblocks.key.update_cull:key.keyboard.f9
 key_framedblocks.key.wipe_cache:key.keyboard.unknown
+key_key.libtooltips.expand:key.keyboard.left.shift
 key_key.fast_placement:key.keyboard.unknown
 key_key.dynamic_fps.toggle_forced:key.keyboard.unknown
 key_key.dynamic_fps.toggle_disabled:key.keyboard.unknown
@@ -248,6 +249,9 @@ key_gui.xaero_map_zoom_in:key.keyboard.unknown
 key_gui.xaero_map_zoom_out:key.keyboard.unknown
 key_gui.xaero_quick_confirm:key.keyboard.unknown
 key_gui.xaero_toggle_dimension:key.keyboard.unknown
+key_key.starcatcher.minigame_hit:key.keyboard.space
+key_key.starcatcher.expand_tournament:key.keyboard.unknown
+key_key.starcatcher.open_guide:key.keyboard.unknown
 key_key.kubejs.kubedex:key.keyboard.k
 key_chloride.zoom:key.keyboard.unknown
 key_key.guideme.guide:key.keyboard.unknown

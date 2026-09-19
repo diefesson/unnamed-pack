@@ -1086,11 +1086,11 @@ hash = "d7514c0ddb6ae8611a281527bf04ca6cbcea1fa21758534fdcd08ed0f51c19c0"
 
 [[files]]
 file = "config/starcatcher-client.toml"
-hash = "336b728ae9dd719f6fe11a43b9018e3a5dd7b5ab1a9827526574a7a2718e0cca"
+hash = "83d1f620417562c59c46facca3a635ee46148f0a0ea9bfe33dc57c6232373989"
 
 [[files]]
 file = "config/starcatcher-server.toml"
-hash = "bce5bbcd805b8d3d11d574f7a615b8b518d6359e4efd0c60d01f72c8696eb85a"
+hash = "81e583491613d4a56d8bf101514ae8a14f3908df4a2672f0f32065eeaca4b15c"
 
 [[files]]
 file = "config/structure_layout_optimizer.jsonc"
@@ -2135,4 +2135,4 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "7141677eb4775c9ee587b74a8e9462babf2419d7f85267b49dd78a01276ae514"
+hash = "f66c593f5f532121dd48030c7d18f1c9e1845116b8dda69eae485a4d58466532"

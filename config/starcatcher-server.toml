@@ -1,7 +1,7 @@
 #Award guide when joining the world/server once per player
-give_guide = true
+give_guide = false
 #Award rod & guide the first time a player fishes with a vanilla fishing rod
-give_rod = true
+give_rod = false
 #Enables/disables the ability to bonemeal block for worms.
 enable_worms = true
 #Whether players should see and access the guide help pages
@@ -9,7 +9,7 @@ enable_guide_help_pages = true
 enable_minigame = true
 #Enables/disables fishes caught being unlocked for all online team members.
 #Offline players won't be awarded the entry.
-enable_ftb_team_sharing = true
+enable_ftb_team_sharing = false
 #Adjusts the vanishing rate, useful if you want to adjust the fishes' difficulty globally.
 # Default: 1.0
 # Range: 0.0 ~ 100.0
@@ -71,4 +71,4 @@ hide_catches = false
 #Enable Starcatcher's fishing rod durability
 enable_rod_durability = false
 #Allows players to use a keybind to open the guide without having the item
-allow_guide_keybind = true
+allow_guide_keybind = false
