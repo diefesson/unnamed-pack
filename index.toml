@@ -926,7 +926,7 @@ hash = "ed80b58d749ad2ef5bdfb09cbd8813e1ffc029fc7f29be81c07d47932b7e05f6"
 
 [[files]]
 file = "config/neat-client.toml"
-hash = "bc0b79f5d9efe647f7f0c425a2eab26bf16ccc641f47c8b41f90b81d2ffebb61"
+hash = "03ef60b252d74656af389c67567baf5bc88948352c06670ee54bafb885903f47"
 
 [[files]]
 file = "config/neoforge-client.toml"
