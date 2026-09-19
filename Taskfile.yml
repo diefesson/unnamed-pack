@@ -7,12 +7,23 @@ tasks:
     cmds:
       - packwiz refresh
 
-  export:
+  prod:
     deps:
+      - clear
       - refresh
     cmds:
       - packwiz mr export --output 'pack.mrpack'
+      - rhash --sha256 'pack.mrpack' > pack.sha256
+
+  test:
+    deps:
+      - clear
+      - refresh
+    cmds:
+      - packwiz mr export --output 'test.mrpack'
 
   clear:
-    if: "[ -f pack.mrpack ]"
-    cmd: rm 'pack.mrpack'
+    cmds:
+      - { if: "[ -f pack.mrpack ]", cmd: rm 'pack.mrpack' }
+      - { if: "[ -f pack.sha256 ]", cmd: rm 'pack.sha256' }
+      - { if: "[ -f test.mrpack ]", cmd: rm 'test.mrpack' }

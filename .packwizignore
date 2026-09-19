@@ -2,3 +2,4 @@
 /CHANGELOG.md
 /cliff.toml
 /Taskfile.yml
+/*.sha256
